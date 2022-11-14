@@ -28,7 +28,7 @@ Play on browser: https://kruq.itch.io/germs-killer
 
 ## Status
 
-The game is complete. The second part of it is planned. 
+The game is complete. The second part of it is not planned. 
 
 ## Version
 
